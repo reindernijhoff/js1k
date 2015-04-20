@@ -1,3 +1,12 @@
+//
+// Code by Reinder Nijhoff for js1k
+// 2014
+// compressed using Regpack v3.0.2
+//
+// Twitter: @reindernijhoff
+// Website: http://www.birdgames.nl
+//
+
 t = [], n = [], e = (j = c.createImageData(M = a.width /= 4, k = a.height /= 4)).data;
 
 r = function(e, t, n) {

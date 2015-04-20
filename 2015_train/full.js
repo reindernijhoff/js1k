@@ -1,3 +1,12 @@
+//
+// Code by Reinder Nijhoff for js1k
+// 2015
+// compressed using Regpack v3.0.2
+//
+// Twitter: @reindernijhoff
+// Website: http://www.birdgames.nl
+//
+
 t = 0,
 
 // linear interpolation of heightmap
