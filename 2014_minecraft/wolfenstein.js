@@ -4,7 +4,7 @@
 // compressed using Regpack v3.0.2
 //
 // Twitter: @reindernijhoff
-// Website: http://www.birdgames.nl
+// Website: https://reindernijhoff.net
 //
 
 e = a.width, t = a.height, n = (k = c.createImageData(e, t)).data, r = [], i = [], A = [], K = [36, 36.5], u = L = 1, 
