@@ -4,7 +4,7 @@
 // compressed using Regpack v3.0.2
 //
 // Twitter: @reindernijhoff
-// Website: http://www.birdgames.nl
+// Website: https://reindernijhoff.net
 //
 
 t = 0,
